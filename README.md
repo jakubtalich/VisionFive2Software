@@ -1,4 +1,4 @@
-# VisionFive2Software
+# VisionFive 2 - Software
 
 Collection of software optimized to run on VisionFive 2
 
